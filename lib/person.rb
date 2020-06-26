@@ -1,4 +1,4 @@
-# class : person 
+# class : person
 
 class Person
   def talk
