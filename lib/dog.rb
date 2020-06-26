@@ -5,7 +5,7 @@ class Dog
     puts "Woof!"
   end
 
-  def sits #sits instance
+  def sit #sits instance
     puts "The Dog is sitting"
   end
 end
